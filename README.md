@@ -1,6 +1,6 @@
 # SUMS Blog
 
-<b>The [CSMS Blog](https://oh-junhee0123.github.io/SUMS.github.io/) is part of the [CSMS Requirement Finder](https://oh-junhee0123.github.io/CS-Requirement-Finder.github.io/).</b>
+<b>The [SUMS Blog](https://oh-junhee0123.github.io/SUMS.github.io/) is part of the [CS Requirement Finder](https://oh-junhee0123.github.io/CS-Requirement-Finder.github.io/).</b>
 
 <b>[This page](https://oh-junhee0123.github.io/SUMS.github.io/) is for sharing content about CSMS.</b>
 
